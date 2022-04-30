@@ -1,0 +1,17 @@
+src/config/config.go
+.vscode
+.idea
+vendor/
+dbclones/
+coverage.out
+public/media/
+cinera/*/
+cinera/cinera.conf
+annotations/
+/hmn
+hmn.conf
+adminmailer/config.go
+adminmailer/adminmailer
+local/backups
+/tmp
+goos3.exe
